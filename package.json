@@ -1,0 +1,16 @@
+{
+  "name": "parcel-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/owk-owk130/percel-template.git",
+  "author": "owk-owk130 <owaki-kengo@kayac.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.32.7"
+  }
+}
