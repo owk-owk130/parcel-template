@@ -3,7 +3,7 @@
 A template for easy website development.
 
 ## environment
-- percel
+- parcel
 - typescript
 - scss
 
